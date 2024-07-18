@@ -1,0 +1,12 @@
+.vscode/
+.idea/
+.settings/
+scenes/
+*.o
+*.d
+*.obj
+*.exe
+*.ppm
+*.pdf
+*.odt
+*.zip
